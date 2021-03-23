@@ -1,2 +1,2 @@
 # EOPSY
-Tasks done within Operating Systems course within university
+Tasks done within Operating Systems course on WUT.
